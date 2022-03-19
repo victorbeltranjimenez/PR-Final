@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Voice authentication
+*Víctor Beltrán*
 
-*[Your Cohort, Campus & Date]*
+*DATA ANALYTICS PT BCN sep 21*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,11 +19,11 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+Analysis and creation of a model to verify the identity of a person through speech.
 
 ## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer?
-* What is the context for the question and the possible scientific or business application?
+* Can you identify a person with speech accurately?
+* Can this process improve the customer experience and relationship?
 * What are the hypotheses you would like to test in order to answer your question?  
 Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 
