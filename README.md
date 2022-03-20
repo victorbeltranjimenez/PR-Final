@@ -45,6 +45,7 @@ Describe your full process of data wrangling and cleaning. Document why you chos
 ## Model Training and Evaluation
 *Include this section only if you chose to include ML in your project.*
 * Describe how you trained your model, the results you obtained, and how you evaluated those results.
+{% include 3d.html %}
 
 ## Conclusion
 * Summarize your results. What do they mean?
