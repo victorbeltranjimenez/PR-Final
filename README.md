@@ -43,9 +43,9 @@ The steps I have followed are:
 -extract features from each of the audios using Librosa.
 -fitting and removal of data not needed for your feature study, keeping 20 samples of MFCC's per sample.
 -using T-SNE, a dimension reduction to 3d has been performed.
-(_images/3d.html)
-{% _images/3d.html %}
-![image](https://github.com/victorbeltranjimenez/PR-Final/blob/main/_includes/3d_plot_img.png)
+
+![3d_plot_img](https://user-images.githubusercontent.com/87228449/159778182-df9438d4-f82b-429c-9cb6-44278e93bb45.png)
+
 
   
 
