@@ -14,8 +14,6 @@
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
@@ -51,25 +49,13 @@ The steps I have followed are:
 
 ## Model Training and Evaluation
 *Include this section only if you chose to include ML in your project.*
-* Describe how you trained your model, the results you obtained, and how you evaluated those results.
-{% include 3d.html %}
+I used Logistic Regression from Scikit-Learn in which I obtained 100% success rate results.
 
 ## Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the questions you try to answer.
+the use of MFCC's in the field of voice biometrics authentication is a successful process.
 
 ## Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
-
-## Workflow
-Outline the workflow you used in your project. What were the steps?
-How did you test the accuracy of your analysis and/or machine learning algorithm?
-
-## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+adding voice recognition for double security using access codes.
 
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
