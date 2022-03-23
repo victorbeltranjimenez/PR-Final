@@ -28,10 +28,15 @@ Analysis and creation of a model to verify the identity of a person through spee
 Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
+Data from Github including 3000 .wav files including 6 speakers, saying the numbers 0 to 9 with 50 repetitions for each number. 
+From each of the .wav files are extracted MFCC's with Librosa
+![image](https://user-images.githubusercontent.com/87228449/159769837-b6283262-f674-475d-b37f-060747be3847.png)
+
+
 * Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
 * If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+* [Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
 
 ## Cleaning
 Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
@@ -69,4 +74,5 @@ Include links to your repository, slides and trello/kanban board. Feel free to i
 
 
 [Repository](https://github.com/victorbeltranjimenez/PR-Final)  
-[Slides](https://1drv.ms/p/s!AtLmbOgMHZpjg9QHOGK5rBUIrGrf1A?e=Fr3agp)   
+[Slides](https://1drv.ms/p/s!AtLmbOgMHZpjg9QHOGK5rBUIrGrf1A?e=Fr3agp)  
+[3d]()
