@@ -30,6 +30,7 @@ Frame your hypothesis with statistical/data languages (i.e. define Null and Alte
 ## Dataset
 Data from Github including 3000 .wav files including 6 speakers, saying the numbers 0 to 9 with 50 repetitions for each number. 
 From each of the .wav files are extracted MFCC's with Librosa
+
 ![image](https://user-images.githubusercontent.com/87228449/159769837-b6283262-f674-475d-b37f-060747be3847.png)
 
 
