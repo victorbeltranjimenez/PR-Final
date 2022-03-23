@@ -45,6 +45,7 @@ The steps I have followed are:
 -using T-SNE, a dimension reduction to 3d has been performed.
 (_images/3d.html)
 {% _images/3d.html %}
+![alt text](https://github.com/victorbeltranjimenez/PR-Final/blob/main/3d.html?raw=true)
 
   
 
