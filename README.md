@@ -33,20 +33,20 @@ From each of the .wav files are extracted MFCC's with Librosa
 
 ![image](https://user-images.githubusercontent.com/87228449/159769837-b6283262-f674-475d-b37f-060747be3847.png)
 
-
-* Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
-* [Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
+[Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
 
 ## Cleaning
-Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
+The project did not require cleaning nor was it necessary to extract outliers. From the characteristics of the samples, the MFCC's were chosen as they were the most appropriate for this project. 
 
 ## Analysis
-* Overview the general steps you went through to analyze your data in order to test your hypothesis.
-* Document each step of your data exploration and analysis.
-* Include charts to demonstrate the effect of your work.
-* If you used Machine Learning in your final project, describe your feature selection process.
+The steps I have followed are:
+-extract features from each of the audios using Librosa.
+-fitting and removal of data not needed for your feature study, keeping 20 samples of MFCC's per sample.
+-using T-SNE, a dimension reduction to 3d has been performed.
+(_images/3d.html)
+{% _images/3d.html %}
+
+  
 
 ## Model Training and Evaluation
 *Include this section only if you chose to include ML in your project.*
