@@ -63,4 +63,4 @@ Include links to your repository, slides and trello/kanban board. Feel free to i
 
 [Repository](https://github.com/victorbeltranjimenez/PR-Final)  
 [Slides](https://1drv.ms/p/s!AtLmbOgMHZpjg9QHOGK5rBUIrGrf1A?e=Fr3agp)  
-[3d]()
+[3d]<a href="https://github.com/victorbeltranjimenez/PR-Final/blob/main/_includes/3d.html" target="_blank">https://github.com/victorbeltranjimenez/PR-Final/blob/main/_includes/3d.html</a>
