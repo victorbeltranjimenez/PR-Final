@@ -7,7 +7,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/.Questions)
+- [Hypotheses / Questions](#Hypotheses / Questions)
 - [Dataset](#dataset)
 - [Cleaning](#cleaning)
 - [Analysis](#analysis)
@@ -22,8 +22,7 @@ Analysis and creation of a model to verify the identity of a person through spee
 ## Hypotheses / Questions
 * Can you identify a person with speech accurately?
 * Can this process improve the customer experience and relationship?
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+
 
 ## Dataset
 Data from Github including 3000 .wav files including 6 speakers, saying the numbers 0 to 9 with 50 repetitions for each number. 
