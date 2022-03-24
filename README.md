@@ -61,5 +61,5 @@ Include links to your repository, slides and trello/kanban board. Feel free to i
 
 
 [Repository](https://github.com/victorbeltranjimenez/PR-Final)  
-[Slides](https://github.com/victorbeltranjimenez/PR-Final/blob/main/PrestentacionPR-Final.pptx)  
+[Slides](https://github.com/victorbeltranjimenez/PR-Final/blob/main/Prestentacion_PR_pdf.pdf)  
 
